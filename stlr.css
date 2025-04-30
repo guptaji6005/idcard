@@ -5,13 +5,16 @@
 }
 
 .conatiner{
-    margin: 50px;
+    margin: 0 auto;
+    margin-top: 2.5rem;
     display: flex;
     align-items: center;
     justify-content: center;
     flex-direction: column;
     background-color: rgb(132, 132, 223);
     border-radius: 10px;
+    border: 2px solid black;
+    max-width: 350px;
 }
 
 h1{
